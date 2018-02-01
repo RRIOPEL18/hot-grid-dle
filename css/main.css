@@ -33,11 +33,11 @@ figure {
 
 figcaption {
   position: absolute;
-  bottom: 20px;
+  bottom: 16px;
   border-radius: 8px;
   background-color: rgba(0, 0, 0, .5);
   padding: 1rem .5rem;
   color: #fff;
   max-width: 15em;
-  left: 20px;
+  left: 16px;
 }
